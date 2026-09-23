@@ -27,3 +27,41 @@ To set up the project locally:
 3. Run the cleaning script to produce `cleaned_mandi.csv`:
    ```bash
    python cleaning_script.py
+
+---
+
+## 3. Usability Matrix & Selected Features
+
+| Column Name | Raw Data Type | Project Status | Usage / Description |
+| :--- | :--- | :--- | :--- |
+| `STATE` | String | **Retained** | Regional grouping and spatial fixed-effects modeling. |
+| `District` | String | **Retained** | District-level spatial aggregation. |
+| `Market Name` | String | **Retained** | Primary time-series entity for continuity tracking. |
+| `Commodity` | String | **Retained** | Crop filtering (e.g., Tomato, Onion, Potato). |
+| `Variety` | String | **Retained** | Quality control across varieties. |
+| `Grade` | String | **Retained** | Quality control (e.g., `FAQ`). |
+| `date` | Datetime / String | **Retained** | Master temporal index for rolling window computation. |
+| `Min_Price` | Numeric (INR/Quintal)| **Retained** | Intraday spread calculation. |
+| `Max_Price` | Numeric (INR/Quintal)| **Retained** | Intraday spread calculation. |
+| `Modal_Price` | Numeric (INR/Quintal)| **Retained** | Baseline price for continuous log returns and 30-day volatility. |
+| `temp_mean` | Numeric (°C) | **Retained** | Mean temperature for thermal anomaly computation. |
+| `rainfall_mm` | Numeric (mm) | **Retained** | Daily localized precipitation shocks. |
+| `rainfall_mm_30d_sum` | Numeric (mm) | **Retained** | Cumulative 30-day trailing rainfall volume. |
+| `flood_indicator` | Binary (0/1) | **Retained** | Indicator for flood shock regimes. |
+| `drought_indicator`| Binary (0/1) | **Retained** | Indicator for drought/heat stress regimes. |
+| `price_lag_7d` | Numeric (INR/Quintal)| **Retained** | Autoregressive 7-day price momentum control. |
+| `price_lag_30d` | Numeric (INR/Quintal)| **Retained** | Autoregressive 30-day baseline control. |
+| `price_7d_avg` | Numeric (INR/Quintal)| **Retained** | Smoothed moving price average. |
+| `temp_min` | Numeric | **Dropped** | Excluded due to systematic missing values for Andhra Pradesh. |
+| `temp_max` | Numeric | **Dropped** | Excluded due to systematic missing values for Andhra Pradesh. |
+| `humidity` | Numeric | **Dropped** | Excluded due to systematic missing values for Andhra Pradesh. |
+| `wind_speed` | Numeric | **Dropped** | Excluded due to missing values across select regions. |
+| `solar_radiation`| Numeric | **Dropped** | Excluded due to missing values across select regions. |
+
+---
+
+## 4. Preprocessing Pipeline
+1. **Column Pruning:** Drop the 5 incomplete climate columns to retain 100% of observations across all 28 states without synthetic imputation bias.
+2. **Deduplication:** Remove exact duplicate transactions.
+3. **Bounds Enforcement:** Discard records where `Modal_Price <= 0` or `Min_Price > Max_Price`.
+4. **Time-Series Imputation:** Group records by market and commodity, forward-filling (`ffill`) and backward-filling (`bfill`) short market closure gaps.
