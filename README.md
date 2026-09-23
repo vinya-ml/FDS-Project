@@ -18,7 +18,7 @@ An empirical time-series and econometric study examining how localized extreme m
 
 Due to GitHub's file storage ceilings (>100 MB), the raw transactional log (`master_aggriculture_dataset.csv`, ~180 MB) is hosted externally.
 
-* **Primary Dataset Source:** [Kaggle: Indian Crop Market Prices & Weather Data (2023–2025)](https://www.kaggle.com/datasets/jignalgajjar/indian-crop-market-prices-and-weather-data)
+* **Primary Dataset Source:** [https://www.kaggle.com/datasets/jignalgajjar/indian-crop-market-prices-and-weather-data](https://www.kaggle.com/datasets/jignalgajjar/daily-crop-mandi-price-with-weather-data2023-25)
 * **Pre-processing Script Output:** Running the data cleaning pipeline generates `cleaned_mandi.csv`, which retains all valid observations across all 28 states.
 
 To set up the project locally:
