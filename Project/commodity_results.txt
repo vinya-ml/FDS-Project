@@ -1,0 +1,112 @@
+
+========== Tomato ==========
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:         volatility_30d   R-squared:                        0.0003
+Estimator:                   PanelOLS   R-squared (Between):              0.0060
+No. Observations:               14691   R-squared (Within):              -0.0018
+Date:                Mon, Sep 28 2026   R-squared (Overall):              0.0063
+Time:                        11:18:45   Log-likelihood                 1.993e+04
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      0.5930
+Entities:                         468   P-value                           0.7362
+Avg Obs:                       31.391   Distribution:                 F(6,14077)
+Min Obs:                       1.0000                                           
+Max Obs:                       124.00   F-statistic (robust):             0.1783
+                                        P-value                           0.9828
+Time periods:                     141   Distribution:                 F(6,14077)
+Avg Obs:                       104.19                                           
+Min Obs:                       1.0000                                           
+Max Obs:                       324.00                                           
+                                                                                
+                                 Parameter Estimates                                 
+=====================================================================================
+                   Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+-------------------------------------------------------------------------------------
+temp_anomaly         -0.0002     0.0013    -0.1608     0.8723     -0.0028      0.0024
+rain_anomaly      -4.818e-05   7.86e-05    -0.6130     0.5399     -0.0002      0.0001
+flood_indicator       0.0015     0.0025     0.6007     0.5480     -0.0034      0.0064
+drought_indicator     0.0037     0.0052     0.7066     0.4799     -0.0065      0.0139
+price_lag_7d       4.378e-08  3.766e-07     0.1163     0.9074  -6.944e-07   7.819e-07
+price_lag_30d      1.235e-08  3.992e-07     0.0309     0.9753  -7.701e-07   7.948e-07
+=====================================================================================
+
+F-test for Poolability: 88.425
+P-value: 0.0000
+Distribution: F(607,14077)
+
+Included effects: Entity, Time
+========== Onion ==========
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:         volatility_30d   R-squared:                        0.0004
+Estimator:                   PanelOLS   R-squared (Between):              0.0273
+No. Observations:              273432   R-squared (Within):               0.0002
+Date:                Mon, Sep 28 2026   R-squared (Overall):              0.0214
+Time:                        11:18:48   Log-likelihood                 2.368e+05
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      17.362
+Entities:                         820   P-value                           0.0000
+Avg Obs:                       333.45   Distribution:                F(6,271967)
+Min Obs:                       1.0000                                           
+Max Obs:                       1172.0   F-statistic (robust):             1.6119
+                                        P-value                           0.1392
+Time periods:                     640   Distribution:                F(6,271967)
+Avg Obs:                       427.24                                           
+Min Obs:                       4.0000                                           
+Max Obs:                       646.00                                           
+                                                                                
+                                 Parameter Estimates                                 
+=====================================================================================
+                   Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+-------------------------------------------------------------------------------------
+temp_anomaly         -0.0004     0.0004    -0.8429     0.3993     -0.0012      0.0005
+rain_anomaly       5.176e-05  6.024e-05     0.8593     0.3901   -6.63e-05      0.0002
+flood_indicator      -0.0028     0.0024    -1.1891     0.2344     -0.0075      0.0018
+drought_indicator     0.0045     0.0020     2.2175     0.0266      0.0005      0.0085
+price_lag_7d       2.939e-07  7.882e-07     0.3729     0.7092  -1.251e-06   1.839e-06
+price_lag_30d      4.884e-07  7.224e-07     0.6760     0.4990  -9.275e-07   1.904e-06
+=====================================================================================
+
+F-test for Poolability: 328.79
+P-value: 0.0000
+Distribution: F(1458,271967)
+
+Included effects: Entity, Time
+========== Potato ==========
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:         volatility_30d   R-squared:                        0.0005
+Estimator:                   PanelOLS   R-squared (Between):             -0.0080
+No. Observations:              304315   R-squared (Within):               0.0043
+Date:                Mon, Sep 28 2026   R-squared (Overall):             -0.0117
+Time:                        11:18:51   Log-likelihood                 3.671e+05
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      26.624
+Entities:                         831   P-value                           0.0000
+Avg Obs:                       366.20   Distribution:                F(6,302750)
+Min Obs:                       1.0000                                           
+Max Obs:                       1572.0   F-statistic (robust):             3.4088
+                                        P-value                           0.0023
+Time periods:                     729   Distribution:                F(6,302750)
+Avg Obs:                       417.44                                           
+Min Obs:                       3.0000                                           
+Max Obs:                       600.00                                           
+                                                                                
+                                 Parameter Estimates                                 
+=====================================================================================
+                   Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+-------------------------------------------------------------------------------------
+temp_anomaly         -0.0003     0.0003    -0.9077     0.3640     -0.0009      0.0003
+rain_anomaly       8.534e-05  4.949e-05     1.7244     0.0846  -1.166e-05      0.0002
+flood_indicator      -0.0063     0.0015    -4.2246     0.0000     -0.0093     -0.0034
+drought_indicator     0.0020     0.0011     1.8960     0.0580  -6.779e-05      0.0041
+price_lag_7d      -3.849e-07  2.489e-07    -1.5467     0.1219  -8.727e-07   1.029e-07
+price_lag_30d     -4.003e-07  2.888e-07    -1.3860     0.1657  -9.663e-07   1.658e-07
+=====================================================================================
+
+F-test for Poolability: 220.05
+P-value: 0.0000
+Distribution: F(1558,302750)
+
+Included effects: Entity, Time
