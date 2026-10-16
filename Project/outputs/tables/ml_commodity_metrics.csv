@@ -1,0 +1,13 @@
+Commodity,Model,Observations,Test_MAE,Test_RMSE,Test_R2,Note
+Tomato,Naive Baseline,0,,,,Data truncated in 2023; entirely contained in training period.
+Tomato,Ridge Regression,0,,,,Data truncated in 2023; entirely contained in training period.
+Tomato,Random Forest,0,,,,Data truncated in 2023; entirely contained in training period.
+Tomato,XGBoost,0,,,,Data truncated in 2023; entirely contained in training period.
+Onion,Naive Baseline,44468,0.111593,0.187089,-0.01046,Evaluated on global out-of-sample test window (Feb-Jun 2025)
+Onion,Ridge Regression,44468,0.111427,0.186842,-0.007793,Evaluated on global out-of-sample test window (Feb-Jun 2025)
+Onion,Random Forest,44468,0.107761,0.1718,0.14794,Evaluated on global out-of-sample test window (Feb-Jun 2025)
+Onion,XGBoost,44468,0.107044,0.171687,0.149061,Evaluated on global out-of-sample test window (Feb-Jun 2025)
+Potato,Naive Baseline,41207,0.06459,0.101687,-0.029583,Evaluated on global out-of-sample test window (Feb-Jun 2025)
+Potato,Ridge Regression,41207,0.06498,0.102228,-0.040563,Evaluated on global out-of-sample test window (Feb-Jun 2025)
+Potato,Random Forest,41207,0.062015,0.095916,0.08397,Evaluated on global out-of-sample test window (Feb-Jun 2025)
+Potato,XGBoost,41207,0.063131,0.09645,0.073736,Evaluated on global out-of-sample test window (Feb-Jun 2025)

@@ -1,0 +1,14 @@
+Metric,Value
+Total Transitions,649415.0
+Consecutive Days (Gap=1),496118.0
+Consecutive Pct,76.08
+Weekend/Holiday (Gap=2-3),94061.0
+Weekend/Holiday Pct,14.42
+Short Gaps (Gap=4-7),20890.0
+Short Gaps Pct,3.2
+Medium Gaps (Gap=8-30),6743.0
+Medium Gaps Pct,1.03
+Severe Gaps (Gap>30),2162.0
+Severe Gaps Pct,0.33
+Same Day Duplicates (Gap=0),29441.0
+Maximum Observed Gap (Days),583.0

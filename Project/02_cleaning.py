@@ -1,6 +1,11 @@
 import pandas as pd
 
-path = r"C:\Vinya\Sem - 5\Foundations Of Data Science\Project\master_aggriculture_dataset.csv"
+import os
+
+data_dir = os.path.dirname(os.path.abspath(__file__))
+path = os.path.join(data_dir, "master_aggriculture_dataset.csv")
+if not os.path.exists(path):
+    path = os.path.join(data_dir, "master_aggriculture_dataset.csv.gz")
 
 df = pd.read_csv(path)
 df["date"] = pd.to_datetime(df["date"])
