@@ -1,0 +1,19 @@
+# Raw uncompressed CSV files (compressed *.csv.gz versions are tracked)
+*.csv
+!data/sample_mandi_demo.csv
+!outputs/tables/*.csv
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+.venv/
+env/
+venv/
+
+# OS files
+Thumbs.db
+.DS_Store

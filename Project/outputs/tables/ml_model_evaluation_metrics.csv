@@ -1,0 +1,5 @@
+Model,Test_MAE,Test_RMSE,Test_R2,Training_Time_Sec,Test_Observations
+Naive Baseline,0.088986,0.15212,0.008802,0.02,85675
+Ridge Regression,0.089087,0.152137,0.008583,0.04,85675
+Random Forest,0.085758,0.140514,0.154282,12.32,85675
+XGBoost,0.085923,0.140618,0.153028,2.85,85675

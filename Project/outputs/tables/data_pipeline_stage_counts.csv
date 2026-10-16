@@ -1,0 +1,8 @@
+Stage,Filename,RowCount,Description,RowsRemovedFromPrevious,RetentionPct
+Raw Master Dataset,master_aggriculture_dataset.csv,737392,"Initial mandi records (all commodities, 30 states)",0,100.0
+Cleaned Top 3 Mandi,cleaned_mandi.csv,652104,"Filtered to Tomato, Onion, Potato; positive modal prices; Min<=Max",85288,88.43
+Returns Mandi,returns_mandi.csv,652104,"Log return computed; 494,402 valid, 157,702 NaN (gap > 3d or start)",0,88.43
+Volatility Mandi,volatility_mandi.csv,652104,"30-day rolling volatility; 592,438 valid, 59,666 NaN (min_periods=20)",0,88.43
+Analytical Final,final_mandi.csv,592438,Analytical panel after dropping missing volatility_30d rows,59666,80.34
+Predictive Mandi,predictive_mandi.csv,652104,"Forward 30-day target computed; 465,526 valid, 186,578 NaN",-59666,88.43
+Predictive Final,predictive_final.csv,465526,Predictive modeling dataset after dropping forward-window edge NaNs,186578,63.13
