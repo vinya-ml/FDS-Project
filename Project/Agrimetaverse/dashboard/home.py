@@ -23,10 +23,10 @@ def render_home_page():
         <div style="background: linear-gradient(135deg, #1E3A8A 0%, #1E40AF 50%, #0F766E 100%); 
                     padding: 28px 32px; border-radius: 12px; color: white; margin-bottom: 24px;">
             <h1 style="margin:0; font-size: 2.2rem; font-weight: 700; color: #FFFFFF;">
-                🌾 Agrimetaverse Intelligence
+                🌾 Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
             </h1>
             <p style="margin: 8px 0 0 0; font-size: 1.05rem; opacity: 0.92; color: #E0E7FF;">
-                Advanced Agricultural Commodity Price Forecasting & Decision-Support System
+                Agrimetaverse Intelligence — Advanced Agricultural Forecasting & Decision-Support System
             </p>
             <p style="margin: 4px 0 0 0; font-size: 0.85rem; opacity: 0.8; color: #CBD5E1;">
                 Research Implementation: Empirical Evaluation of 6 AI & Econometric Paradigms (ELM-GA, XGBoost, Prophet, SARIMA-LSTM, SARIMAX, ARIMA)

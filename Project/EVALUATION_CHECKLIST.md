@@ -1,6 +1,6 @@
 # Academic Evaluation Checklist & Project Demonstration Guide
 
-**Project Title:** Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather  
+**Project Title:** Agricultural Commodity Price Forecasting & Weather Volatility Dynamics  
 **Target Course:** Fundamentals of Data Science (FDS) — 20-Mark Final Evaluation  
 **Repository:** [https://github.com/vinya-ml/FDS-Project](https://github.com/vinya-ml/FDS-Project)  
 **Evaluation Role:** Senior Data Scientist, Econometrician & Academic Evaluator  

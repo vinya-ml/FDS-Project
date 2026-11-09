@@ -1,6 +1,6 @@
 """
 Robustness and Feature Ablation Analysis
-Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather
+Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
 
 Evaluates:
 1. Feature Ablation: Model Performance WITH vs. WITHOUT Weather Features

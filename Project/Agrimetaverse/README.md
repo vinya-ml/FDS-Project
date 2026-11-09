@@ -1,5 +1,5 @@
-# 🌾 Agrimetaverse Intelligence
-## Advanced Agricultural Commodity Price Forecasting & Decision-Support System
+# 🌾 Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
+## Agrimetaverse Intelligence — Advanced Forecasting & Decision-Support System
 
 Implementation of the research paper:  
 **"Agrimetaverse Intelligence: Advanced Agricultural Commodity Price Forecasting System"**
