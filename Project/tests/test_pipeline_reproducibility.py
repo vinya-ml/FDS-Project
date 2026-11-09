@@ -1,6 +1,6 @@
 """
 Pipeline Reproducibility and Artifacts Verification Tests
-Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather
+Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
 """
 
 import os

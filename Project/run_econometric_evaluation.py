@@ -1,6 +1,6 @@
 """
 Econometric Analysis and Statistical Validation Suite
-Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather
+Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
 
 Executes and consolidates:
 1. Baseline Pooled Two-Way Fixed Effects PanelOLS (592,438 obs)
@@ -252,7 +252,7 @@ def run_econometrics():
     print("\n[6/6] Generating ECONOMETRIC_REPORT.md...")
     md_content = f"""# Econometric Analysis & Statistical Validation Report
 
-**Project Title:** Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather  
+**Project Title:** Agricultural Commodity Price Forecasting & Weather Volatility Dynamics  
 **Target Specification:** Two-Way Fixed Effects PanelOLS with Market Clustered Standard Errors  
 **Sample Coverage:** 2023-06-06 to 2025-06-11 (730 Trading Days Across 2,119 Mandi-Commodity Entities)  
 **Evaluator Reference:** Fundamentals of Data Science (FDS) Academic Evaluation  

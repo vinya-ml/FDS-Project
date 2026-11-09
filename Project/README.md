@@ -1,4 +1,4 @@
-# Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather
+# Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
 
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,8 +7,9 @@
 
 > **Fundamentals of Data Science (FDS) — Final Academic Research Project**  
 > **Course:** Sem - 5 B.Tech Computer Science & Engineering  
-> **Target Commodities:** Tomato, Onion, Potato (TOP Vegetables)  
-> **Empirical Dataset:** 737,392 Initial Mandi Records across 30 Indian States (2023–2025)  
+> **Target Scope:** Mandi Price Spikes, Weather Shock Volatility & 22-Commodity Agrimetaverse Intelligence Forecasting  
+> **Core Commodities:** Tomato, Onion, Potato (TOP Vegetables) + 22 National Agricultural Staples  
+> **Empirical Dataset:** 737,392 Initial Mandi Records across 30 Indian States (2023–2025) & Multi-Year Series (2014–2024)  
 > **Repository:** [https://github.com/vinya-ml/FDS-Project](https://github.com/vinya-ml/FDS-Project)  
 
 ---
@@ -49,6 +50,12 @@ In India, retail food inflation is overwhelmingly driven by violent wholesale pr
 
 ```
 FDS-Project/
+├── Agrimetaverse/                   # Full-stack 22-commodity price forecasting platform
+│   ├── app.py                       # Interactive multi-page Streamlit dashboard
+│   ├── advanced_forecaster.py       # Advanced forecasting pipeline
+│   ├── models/                      # ELM-GA, Hybrid SARIMA-LSTM, XGBoost, Prophet, etc.
+│   ├── reports/                     # Executive PDF and CSV report generators
+│   └── tests/                       # Unit tests for forecasting and dashboard
 ├── 01_data_loading.py               # Raw dataset loader & initial statistics
 ├── 02_cleaning.py                   # Filtering valid prices & TOP commodities
 ├── 03_check_gaps.py                 # Time-series gap diagnostic

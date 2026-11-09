@@ -1,6 +1,6 @@
 """
 Enhanced Publication-Quality Exploratory Data Analysis (EDA)
-Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather
+Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
 
 Generates publication-quality charts in outputs/figures/ and numerical summaries in outputs/tables/
 """

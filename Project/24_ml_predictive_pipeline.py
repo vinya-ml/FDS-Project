@@ -1,6 +1,6 @@
 """
 Machine Learning Predictive Modeling Pipeline
-Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather
+Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
 
 Implements a rigorous out-of-sample machine learning evaluation:
 - Chronological Train (70%), Validation (15%), Test (15%) splits
@@ -326,7 +326,7 @@ def run_ml_pipeline():
     print("\n[6/6] Generating PREDICTIVE_MODELING_REPORT.md...")
     rep_md = f"""# Out-of-Sample Machine Learning Predictive Pipeline Report
 
-**Project Title:** Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather  
+**Project Title:** Agricultural Commodity Price Forecasting & Weather Volatility Dynamics  
 **Target Variable:** Future 30-Day Price Volatility (`future_volatility_30d`)  
 **Split Architecture:** Strict Chronological Time Split (Train: 321,764 | Val: 58,087 | Test: 85,675)  
 **Evaluator Reference:** Fundamentals of Data Science (FDS) Academic Evaluation  

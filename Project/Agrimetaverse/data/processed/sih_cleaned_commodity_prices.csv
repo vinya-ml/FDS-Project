@@ -1,0 +1,243 @@
+Commodity,Year,Price,Category,Unit
+Atta (Wheat),2014,23.623,Grains,₹/kg
+Atta (Wheat),2015,24.68583333,Grains,₹/kg
+Atta (Wheat),2016,25.135,Grains,₹/kg
+Atta (Wheat),2017,26.24416667,Grains,₹/kg
+Atta (Wheat),2018,26.35417,Grains,₹/kg
+Atta (Wheat),2019,28.4967,Grains,₹/kg
+Atta (Wheat),2020,30.8817,Grains,₹/kg
+Atta (Wheat),2021,30.79,Grains,₹/kg
+Atta (Wheat),2022,34.0,Grains,₹/kg
+Atta (Wheat),2023,37.47,Grains,₹/kg
+Atta (Wheat),2024,38.75,Grains,₹/kg
+Gram Dal,2014,47.26333333,Pulses,₹/kg
+Gram Dal,2015,58.61917,Pulses,₹/kg
+Gram Dal,2016,89.37,Pulses,₹/kg
+Gram Dal,2017,87.5425,Pulses,₹/kg
+Gram Dal,2018,66.99,Pulses,₹/kg
+Gram Dal,2019,66.095,Pulses,₹/kg
+Gram Dal,2020,68.4467,Pulses,₹/kg
+Gram Dal,2021,75.23,Pulses,₹/kg
+Gram Dal,2022,73.7,Pulses,₹/kg
+Gram Dal,2023,75.35,Pulses,₹/kg
+Gram Dal,2024,85.27,Pulses,₹/kg
+Groundnut Oil (Packed),2014,120.383,Oils,₹/L
+Groundnut Oil (Packed),2015,121.37,Oils,₹/L
+Groundnut Oil (Packed),2016,130.6633333,Oils,₹/L
+Groundnut Oil (Packed),2017,131.06,Oils,₹/L
+Groundnut Oil (Packed),2018,125.53,Oils,₹/L
+Groundnut Oil (Packed),2019,128.9792,Oils,₹/L
+Groundnut Oil (Packed),2020,123.4192,Oils,₹/L
+Groundnut Oil (Packed),2021,174.51,Oils,₹/L
+Groundnut Oil (Packed),2022,189.94,Oils,₹/L
+Groundnut Oil (Packed),2023,191.18,Oils,₹/L
+Groundnut Oil (Packed),2024,188.49,Oils,₹/L
+Gur,2014,40.6575,Other staples,₹/kg
+Gur,2015,40.35,Other staples,₹/kg
+Gur,2016,41.87166667,Other staples,₹/kg
+Gur,2017,44.481,Other staples,₹/kg
+Gur,2018,43.1958,Other staples,₹/kg
+Gur,2019,43.8975,Other staples,₹/kg
+Gur,2020,47.88166667,Other staples,₹/kg
+Gur,2021,47.45,Other staples,₹/kg
+Gur,2022,48.76,Other staples,₹/kg
+Gur,2023,51.06,Other staples,₹/kg
+Gur,2024,53.27,Other staples,₹/kg
+Masoor Dal,2014,66.914,Pulses,₹/kg
+Masoor Dal,2015,81.0,Pulses,₹/kg
+Masoor Dal,2016,82.71841667,Pulses,₹/kg
+Masoor Dal,2017,70.45,Pulses,₹/kg
+Masoor Dal,2018,61.39,Pulses,₹/kg
+Masoor Dal,2019,62.8342,Pulses,₹/kg
+Masoor Dal,2020,75.7808,Pulses,₹/kg
+Masoor Dal,2021,88.13,Pulses,₹/kg
+Masoor Dal,2022,96.51,Pulses,₹/kg
+Masoor Dal,2023,93.25,Pulses,₹/kg
+Masoor Dal,2024,92.92,Pulses,₹/kg
+Milk,2014,36.83833333,Other staples,₹/L
+Milk,2015,39.09,Other staples,₹/L
+Milk,2016,39.93916667,Other staples,₹/L
+Milk,2017,41.53818182,Other staples,₹/L
+Milk,2018,42.3083,Other staples,₹/L
+Milk,2019,43.755,Other staples,₹/L
+Milk,2020,46.431,Other staples,₹/L
+Milk,2021,48.65,Other staples,₹/L
+Milk,2022,52.19,Other staples,₹/L
+Milk,2023,56.43,Other staples,₹/L
+Milk,2024,58.46,Other staples,₹/L
+Moong Dal,2014,87.8,Pulses,₹/kg
+Moong Dal,2015,101.7608333,Pulses,₹/kg
+Moong Dal,2016,94.98583333,Pulses,₹/kg
+Moong Dal,2017,77.63166667,Pulses,₹/kg
+Moong Dal,2018,73.44,Pulses,₹/kg
+Moong Dal,2019,80.505,Pulses,₹/kg
+Moong Dal,2020,104.1517,Pulses,₹/kg
+Moong Dal,2021,104.97,Pulses,₹/kg
+Moong Dal,2022,102.58,Pulses,₹/kg
+Moong Dal,2023,106.38,Pulses,₹/kg
+Moong Dal,2024,117.2,Pulses,₹/kg
+Mustard Oil (Packed),2014,97.47428571,Oils,₹/L
+Mustard Oil (Packed),2015,103.85,Oils,₹/L
+Mustard Oil (Packed),2016,109.4316667,Oils,₹/L
+Mustard Oil (Packed),2017,106.9983333,Oils,₹/L
+Mustard Oil (Packed),2018,105.14,Oils,₹/L
+Mustard Oil (Packed),2019,109.7125,Oils,₹/L
+Mustard Oil (Packed),2020,93.1067,Oils,₹/L
+Mustard Oil (Packed),2021,162.76,Oils,₹/L
+Mustard Oil (Packed),2022,181.49,Oils,₹/L
+Mustard Oil (Packed),2023,158.29,Oils,₹/L
+Mustard Oil (Packed),2024,146.06,Oils,₹/L
+Onion,2014,23.41166667,Vegetables,₹/kg
+Onion,2015,31.7,Vegetables,₹/kg
+Onion,2016,16.9125,Vegetables,₹/kg
+Onion,2017,22.26833333,Vegetables,₹/kg
+Onion,2018,21.0633,Vegetables,₹/kg
+Onion,2019,29.675,Vegetables,₹/kg
+Onion,2020,36.15916667,Vegetables,₹/kg
+Onion,2021,33.07,Vegetables,₹/kg
+Onion,2022,28.0,Vegetables,₹/kg
+Onion,2023,29.56,Vegetables,₹/kg
+Onion,2024,37.14,Vegetables,₹/kg
+Palm Oil (Packed),2014,69.142,Oils,₹/L
+Palm Oil (Packed),2015,64.42,Oils,₹/L
+Palm Oil (Packed),2016,68.31916667,Oils,₹/L
+Palm Oil (Packed),2017,70.38416667,Oils,₹/L
+Palm Oil (Packed),2018,77.1708,Oils,₹/L
+Palm Oil (Packed),2019,76.5375,Oils,₹/L
+Palm Oil (Packed),2020,92.12916667,Oils,₹/L
+Palm Oil (Packed),2021,124.95,Oils,₹/L
+Palm Oil (Packed),2022,138.93,Oils,₹/L
+Palm Oil (Packed),2023,114.21,Oils,₹/L
+Palm Oil (Packed),2024,104.24,Oils,₹/L
+Potato,2014,26.08,Vegetables,₹/kg
+Potato,2015,16.16,Vegetables,₹/kg
+Potato,2016,19.05,Vegetables,₹/kg
+Potato,2017,14.92,Vegetables,₹/kg
+Potato,2018,19.9083,Vegetables,₹/kg
+Potato,2019,18.9617,Vegetables,₹/kg
+Potato,2020,31.23916667,Vegetables,₹/kg
+Potato,2021,21.12,Vegetables,₹/kg
+Potato,2022,25.23,Vegetables,₹/kg
+Potato,2023,23.8,Vegetables,₹/kg
+Potato,2024,27.01,Vegetables,₹/kg
+Rice,2014,27.9175,Grains,₹/kg
+Rice,2015,27.51083,Grains,₹/kg
+Rice,2016,27.29,Grains,₹/kg
+Rice,2017,28.99,Grains,₹/kg
+Rice,2018,30.04583,Grains,₹/kg
+Rice,2019,31.7767,Grains,₹/kg
+Rice,2020,34.1825,Grains,₹/kg
+Rice,2021,36.08,Grains,₹/kg
+Rice,2022,36.82,Grains,₹/kg
+Rice,2023,40.02,Grains,₹/kg
+Rice,2024,44.04,Grains,₹/kg
+Salt Pack (Iodised),2014,14.52,Other staples,₹/pack
+Salt Pack (Iodised),2015,14.83,Other staples,₹/pack
+Salt Pack (Iodised),2016,14.99083333,Other staples,₹/pack
+Salt Pack (Iodised),2017,15.11069231,Other staples,₹/pack
+Salt Pack (Iodised),2018,15.2275,Other staples,₹/pack
+Salt Pack (Iodised),2019,15.3625,Other staples,₹/pack
+Salt Pack (Iodised),2020,16.2542,Other staples,₹/pack
+Salt Pack (Iodised),2021,18.14,Other staples,₹/pack
+Salt Pack (Iodised),2022,20.11,Other staples,₹/pack
+Salt Pack (Iodised),2023,22.29,Other staples,₹/pack
+Salt Pack (Iodised),2024,22.23,Other staples,₹/pack
+Soya Oil (Packed),2014,84.17833333,Oils,₹/L
+Soya Oil (Packed),2015,83.3,Oils,₹/L
+Soya Oil (Packed),2016,82.47666667,Oils,₹/L
+Soya Oil (Packed),2017,85.2225,Oils,₹/L
+Soya Oil (Packed),2018,89.6292,Oils,₹/L
+Soya Oil (Packed),2019,92.375,Oils,₹/L
+Soya Oil (Packed),2020,102.6708333,Oils,₹/L
+Soya Oil (Packed),2021,143.63,Oils,₹/L
+Soya Oil (Packed),2022,159.78,Oils,₹/L
+Soya Oil (Packed),2023,146.39,Oils,₹/L
+Soya Oil (Packed),2024,126.46,Oils,₹/L
+Sugar,2014,35.5875,Other staples,₹/kg
+Sugar,2015,30.51,Other staples,₹/kg
+Sugar,2016,38.87636364,Other staples,₹/kg
+Sugar,2017,42.61583333,Other staples,₹/kg
+Sugar,2018,38.815,Other staples,₹/kg
+Sugar,2019,38.2925,Other staples,₹/kg
+Sugar,2020,39.8825,Other staples,₹/kg
+Sugar,2021,40.37,Other staples,₹/kg
+Sugar,2022,41.46,Other staples,₹/kg
+Sugar,2023,42.36,Other staples,₹/kg
+Sugar,2024,44.42,Other staples,₹/kg
+Sunflower Oil (Packed),2014,95.35333333,Oils,₹/L
+Sunflower Oil (Packed),2015,94.06,Oils,₹/L
+Sunflower Oil (Packed),2016,95.15166667,Oils,₹/L
+Sunflower Oil (Packed),2017,93.13909091,Oils,₹/L
+Sunflower Oil (Packed),2018,96.0833,Oils,₹/L
+Sunflower Oil (Packed),2019,99.9817,Oils,₹/L
+Sunflower Oil (Packed),2020,114.1683333,Oils,₹/L
+Sunflower Oil (Packed),2021,161.47,Oils,₹/L
+Sunflower Oil (Packed),2022,177.9,Oils,₹/L
+Sunflower Oil (Packed),2023,156.84,Oils,₹/L
+Sunflower Oil (Packed),2024,137.48,Oils,₹/L
+Tea Loose,2014,205.6466667,Other staples,₹/kg
+Tea Loose,2015,205.83,Other staples,₹/kg
+Tea Loose,2016,199.1333333,Other staples,₹/kg
+Tea Loose,2017,202.71,Other staples,₹/kg
+Tea Loose,2018,209.575,Other staples,₹/kg
+Tea Loose,2019,212.6408,Other staples,₹/kg
+Tea Loose,2020,226.1175,Other staples,₹/kg
+Tea Loose,2021,278.3,Other staples,₹/kg
+Tea Loose,2022,282.16,Other staples,₹/kg
+Tea Loose,2023,276.35,Other staples,₹/kg
+Tea Loose,2024,276.24,Other staples,₹/kg
+Tomato,2014,25.098,Vegetables,₹/kg
+Tomato,2015,25.55,Vegetables,₹/kg
+Tomato,2016,25.74416667,Vegetables,₹/kg
+Tomato,2017,31.80333333,Vegetables,₹/kg
+Tomato,2018,22.8483,Vegetables,₹/kg
+Tomato,2019,30.5367,Vegetables,₹/kg
+Tomato,2020,33.61833333,Vegetables,₹/kg
+Tomato,2021,29.37,Vegetables,₹/kg
+Tomato,2022,36.71,Vegetables,₹/kg
+Tomato,2023,29.67,Vegetables,₹/kg
+Tomato,2024,41.47,Vegetables,₹/kg
+Tur/Arhar Dal,2014,71.79333333,Pulses,₹/kg
+Tur/Arhar Dal,2015,106.665,Pulses,₹/kg
+Tur/Arhar Dal,2016,132.2458333,Pulses,₹/kg
+Tur/Arhar Dal,2017,84.26666667,Pulses,₹/kg
+Tur/Arhar Dal,2018,71.05,Pulses,₹/kg
+Tur/Arhar Dal,2019,80.755,Pulses,₹/kg
+Tur/Arhar Dal,2020,95.3208,Pulses,₹/kg
+Tur/Arhar Dal,2021,105.57,Pulses,₹/kg
+Tur/Arhar Dal,2022,106.02,Pulses,₹/kg
+Tur/Arhar Dal,2023,130.68,Pulses,₹/kg
+Tur/Arhar Dal,2024,155.54,Pulses,₹/kg
+Urad Dal,2014,72.2,Pulses,₹/kg
+Urad Dal,2015,102.4908333,Pulses,₹/kg
+Urad Dal,2016,137.0641667,Pulses,₹/kg
+Urad Dal,2017,92.59166667,Pulses,₹/kg
+Urad Dal,2018,70.8,Pulses,₹/kg
+Urad Dal,2019,76.4433,Pulses,₹/kg
+Urad Dal,2020,101.3683,Pulses,₹/kg
+Urad Dal,2021,108.25,Pulses,₹/kg
+Urad Dal,2022,106.11,Pulses,₹/kg
+Urad Dal,2023,113.44,Pulses,₹/kg
+Urad Dal,2024,125.35,Pulses,₹/kg
+Vanaspati (Packed),2014,76.71875,Oils,₹/L
+Vanaspati (Packed),2015,74.69,Oils,₹/L
+Vanaspati (Packed),2016,74.23916667,Oils,₹/L
+Vanaspati (Packed),2017,77.70833333,Oils,₹/L
+Vanaspati (Packed),2018,80.4375,Oils,₹/L
+Vanaspati (Packed),2019,80.765,Oils,₹/L
+Vanaspati (Packed),2020,92.24083333,Oils,₹/L
+Vanaspati (Packed),2021,130.51,Oils,₹/L
+Vanaspati (Packed),2022,150.29,Oils,₹/L
+Vanaspati (Packed),2023,133.75,Oils,₹/L
+Vanaspati (Packed),2024,125.07,Oils,₹/L
+Wheat,2014,21.64833333,Grains,₹/kg
+Wheat,2015,22.75916667,Grains,₹/kg
+Wheat,2016,23.57,Grains,₹/kg
+Wheat,2017,23.9075,Grains,₹/kg
+Wheat,2018,24.23083,Grains,₹/kg
+Wheat,2019,26.7583,Grains,₹/kg
+Wheat,2020,28.5442,Grains,₹/kg
+Wheat,2021,27.24,Grains,₹/kg
+Wheat,2022,30.0,Grains,₹/kg
+Wheat,2023,32.34,Grains,₹/kg
+Wheat,2024,33.68,Grains,₹/kg

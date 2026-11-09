@@ -1,0 +1,68 @@
+{
+    "ELM-GA": {
+        "Rank": "5th",
+        "R2": -0.82,
+        "RMSE": 609.42,
+        "MAE": 509.4,
+        "MAPE": 34.19,
+        "Directional_Accuracy": 48.6,
+        "Wins": "1/15",
+        "Win_Rate": 6.7,
+        "Significance": "-"
+    },
+    "XGBoost": {
+        "Rank": "2nd \ud83e\udd48 Runner-up",
+        "R2": -0.532,
+        "RMSE": 406.65,
+        "MAE": 338.79,
+        "MAPE": 21.81,
+        "Directional_Accuracy": 52.6,
+        "Wins": "4/15",
+        "Win_Rate": 26.7,
+        "Significance": "-"
+    },
+    "Prophet": {
+        "Rank": "6th",
+        "R2": -0.964,
+        "RMSE": 4080.0,
+        "MAE": 3767.91,
+        "MAPE": 141.09,
+        "Directional_Accuracy": 50.1,
+        "Wins": "0/15",
+        "Win_Rate": 0.0,
+        "Significance": "-"
+    },
+    "SARIMA-LSTM": {
+        "Rank": "1st \ud83c\udfc6 Champion",
+        "R2": -0.496,
+        "RMSE": 425.26,
+        "MAE": 361.25,
+        "MAPE": 24.06,
+        "Directional_Accuracy": 56.5,
+        "Wins": "7/15",
+        "Win_Rate": 46.7,
+        "Significance": "-"
+    },
+    "SARIMAX": {
+        "Rank": "4th",
+        "R2": -0.74,
+        "RMSE": 742.94,
+        "MAE": 683.14,
+        "MAPE": 44.55,
+        "Directional_Accuracy": 51.5,
+        "Wins": "0/15",
+        "Win_Rate": 0.0,
+        "Significance": "-"
+    },
+    "ARIMA": {
+        "Rank": "3rd \ud83e\udd49 3rd",
+        "R2": -0.642,
+        "RMSE": 710.84,
+        "MAE": 662.25,
+        "MAPE": 44.58,
+        "Directional_Accuracy": 53.0,
+        "Wins": "3/15",
+        "Win_Rate": 20.0,
+        "Significance": "-"
+    }
+}

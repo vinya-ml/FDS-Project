@@ -1,6 +1,6 @@
 # Out-of-Sample Machine Learning Predictive Pipeline Report
 
-**Project Title:** Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather  
+**Project Title:** Agricultural Commodity Price Forecasting & Weather Volatility Dynamics  
 **Target Variable:** Future 30-Day Price Volatility (`future_volatility_30d`)  
 **Split Architecture:** Strict Chronological Time Split (Train: 321,764 | Val: 58,087 | Test: 85,675)  
 **Evaluator Reference:** Fundamentals of Data Science (FDS) Academic Evaluation  
@@ -28,10 +28,10 @@
 
 | Model Architecture | Test MAE | Test RMSE | Out-of-Sample $R^2$ | Training Time (s) | Evaluation Status |
 |---|---|---|---|---|---|
-| **Naive Commodity Mean Baseline** | 0.088986 | 0.152120 | 0.008802 | 0.02 | Reference Benchmark |
-| **Ridge Regression (L2)** | 0.089087 | 0.152137 | 0.008583 | 0.04 | Regularized Linear Model |
-| **Random Forest Regressor** | 0.085758 | 0.140514 | 0.154282 | 12.32 | Non-Linear Ensemble |
-| **XGBoost Regressor (Hist)** | 0.085923 | 0.140618 | 0.153028 | 2.85 | Gradient Boosted Trees |
+| **Naive Commodity Mean Baseline** | 0.088986 | 0.152120 | 0.008802 | 0.03 | Reference Benchmark |
+| **Ridge Regression (L2)** | 0.089087 | 0.152137 | 0.008583 | 0.08 | Regularized Linear Model |
+| **Random Forest Regressor** | 0.085758 | 0.140514 | 0.154282 | 10.86 | Non-Linear Ensemble |
+| **XGBoost Regressor (Hist)** | 0.085923 | 0.140618 | 0.153028 | 2.71 | Gradient Boosted Trees |
 
 ---
 

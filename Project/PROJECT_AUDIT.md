@@ -1,6 +1,6 @@
-# Comprehensive Project Audit: Food Supply Chain & Inflation Dynamics
+# Comprehensive Project Audit: Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
 
-**Project Title:** Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather  
+**Project Title:** Agricultural Commodity Price Forecasting & Weather Volatility Dynamics  
 **Target Course:** Fundamentals of Data Science (FDS) — 20-Mark Academic Evaluation  
 **Repository:** [https://github.com/vinya-ml/FDS-Project](https://github.com/vinya-ml/FDS-Project)  
 **Target Branch:** `main`  

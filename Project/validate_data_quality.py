@@ -1,6 +1,6 @@
 """
 Data Quality and Time-Series Validation Script
-Food Supply Chain & Inflation Dynamics Project
+Agricultural Commodity Price Forecasting & Weather Volatility Dynamics
 
 Audits and validates:
 - Duplicate records and multi-variety date collisions

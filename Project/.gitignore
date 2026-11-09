@@ -2,6 +2,8 @@
 *.csv
 !data/sample_mandi_demo.csv
 !outputs/tables/*.csv
+!Agrimetaverse/**/*.csv
+!Agrimetaverse/*.csv
 
 # Python cache and environments
 __pycache__/
@@ -14,6 +16,10 @@ __pycache__/
 env/
 venv/
 
+# Unrelated lab files
+lab9Q*.py
+
 # OS files
 Thumbs.db
 .DS_Store
+
