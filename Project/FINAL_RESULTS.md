@@ -1,6 +1,6 @@
 # Final Research Findings & Academic Synthesis
 
-**Project Title:** Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather  
+**Project Title:** Agricultural Commodity Price Forecasting & Weather Volatility Dynamics  
 **Target Course:** Fundamentals of Data Science (FDS) — 20-Mark Final Academic Evaluation  
 **Target Commodities:** Tomato, Onion, Potato (TOP Vegetables)  
 **Dataset Coverage:** 737,392 Initial Mandi Records across 30 Indian States (June 2023 – June 2025)  
