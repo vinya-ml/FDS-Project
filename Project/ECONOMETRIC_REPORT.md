@@ -1,6 +1,6 @@
 # Econometric Analysis & Statistical Validation Report
 
-**Project Title:** Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather  
+**Project Title:** Agricultural Commodity Price Forecasting & Weather Volatility Dynamics  
 **Target Specification:** Two-Way Fixed Effects PanelOLS with Market Clustered Standard Errors  
 **Sample Coverage:** 2023-06-06 to 2025-06-11 (730 Trading Days Across 2,119 Mandi-Commodity Entities)  
 **Evaluator Reference:** Fundamentals of Data Science (FDS) Academic Evaluation  

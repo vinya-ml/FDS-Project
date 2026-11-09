@@ -1,6 +1,6 @@
 # Out-of-Sample Machine Learning Predictive Pipeline Report
 
-**Project Title:** Food Supply Chain & Inflation Dynamics: Mandi Price Spikes vs. Extreme Weather  
+**Project Title:** Agricultural Commodity Price Forecasting & Weather Volatility Dynamics  
 **Target Variable:** Future 30-Day Price Volatility (`future_volatility_30d`)  
 **Split Architecture:** Strict Chronological Time Split (Train: 321,764 | Val: 58,087 | Test: 85,675)  
 **Evaluator Reference:** Fundamentals of Data Science (FDS) Academic Evaluation  
