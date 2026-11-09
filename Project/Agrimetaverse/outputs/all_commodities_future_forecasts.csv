@@ -1,0 +1,91 @@
+Commodity,Horizon,Model,Baseline_Price,Forecast_Price,Lower_95%,Upper_95%,Unit
+Onion,7 Days,XGBoost,1444.49,1445.6,1358.86,1532.34,₹/Quintal
+Onion,14 Days,XGBoost,1444.49,1446.71,1359.91,1533.51,₹/Quintal
+Onion,30 Days,XGBoost,1444.49,1449.24,1362.29,1536.19,₹/Quintal
+Onion,60 Days,XGBoost,1444.49,1453.99,1366.75,1541.23,₹/Quintal
+Onion,90 Days,XGBoost,1444.49,1458.74,1371.22,1546.26,₹/Quintal
+Onion,180 Days,XGBoost,1444.49,1472.98,1384.6,1561.36,₹/Quintal
+Onion (Karnataka),7 Days,XGBoost,1896.8,1898.26,1784.36,2012.16,₹/Quintal
+Onion (Karnataka),14 Days,XGBoost,1896.8,1899.71,1785.73,2013.69,₹/Quintal
+Onion (Karnataka),30 Days,XGBoost,1896.8,1903.04,1788.86,2017.22,₹/Quintal
+Onion (Karnataka),60 Days,XGBoost,1896.8,1909.27,1794.71,2023.83,₹/Quintal
+Onion (Karnataka),90 Days,XGBoost,1896.8,1915.51,1800.58,2030.44,₹/Quintal
+Onion (Karnataka),180 Days,XGBoost,1896.8,1934.22,1818.17,2050.27,₹/Quintal
+Onion (Maharashtra),7 Days,ELM-GA,1387.95,1389.01,1305.67,1472.35,₹/Quintal
+Onion (Maharashtra),14 Days,ELM-GA,1387.95,1390.08,1306.68,1473.48,₹/Quintal
+Onion (Maharashtra),30 Days,ELM-GA,1387.95,1392.51,1308.96,1476.06,₹/Quintal
+Onion (Maharashtra),60 Days,ELM-GA,1387.95,1397.08,1313.26,1480.9,₹/Quintal
+Onion (Maharashtra),90 Days,ELM-GA,1387.95,1401.64,1317.54,1485.74,₹/Quintal
+Onion (Maharashtra),180 Days,ELM-GA,1387.95,1415.33,1330.41,1500.25,₹/Quintal
+Potato,7 Days,SARIMA-LSTM,1721.33,1722.65,1619.29,1826.01,₹/Quintal
+Potato,14 Days,SARIMA-LSTM,1721.33,1723.97,1620.53,1827.41,₹/Quintal
+Potato,30 Days,SARIMA-LSTM,1721.33,1726.99,1623.37,1830.61,₹/Quintal
+Potato,60 Days,SARIMA-LSTM,1721.33,1732.65,1628.69,1836.61,₹/Quintal
+Potato,90 Days,SARIMA-LSTM,1721.33,1738.31,1634.01,1842.61,₹/Quintal
+Potato,180 Days,SARIMA-LSTM,1721.33,1755.29,1649.97,1860.61,₹/Quintal
+Potato (Karnataka),7 Days,SARIMA-LSTM,2087.0,2088.6,1963.28,2213.92,₹/Quintal
+Potato (Karnataka),14 Days,SARIMA-LSTM,2087.0,2090.2,1964.79,2215.61,₹/Quintal
+Potato (Karnataka),30 Days,SARIMA-LSTM,2087.0,2093.86,1968.23,2219.49,₹/Quintal
+Potato (Karnataka),60 Days,SARIMA-LSTM,2087.0,2100.72,1974.68,2226.76,₹/Quintal
+Potato (Karnataka),90 Days,SARIMA-LSTM,2087.0,2107.58,1981.13,2234.03,₹/Quintal
+Potato (Karnataka),180 Days,SARIMA-LSTM,2087.0,2128.17,2000.48,2255.86,₹/Quintal
+Potato (Maharashtra),7 Days,SARIMA-LSTM,1635.29,1636.54,1538.35,1734.73,₹/Quintal
+Potato (Maharashtra),14 Days,SARIMA-LSTM,1635.29,1637.8,1539.53,1736.07,₹/Quintal
+Potato (Maharashtra),30 Days,SARIMA-LSTM,1635.29,1640.67,1542.23,1739.11,₹/Quintal
+Potato (Maharashtra),60 Days,SARIMA-LSTM,1635.29,1646.04,1547.28,1744.8,₹/Quintal
+Potato (Maharashtra),90 Days,SARIMA-LSTM,1635.29,1651.42,1552.33,1750.51,₹/Quintal
+Potato (Maharashtra),180 Days,SARIMA-LSTM,1635.29,1667.55,1567.5,1767.6,₹/Quintal
+Rice,7 Days,SARIMA-LSTM,3801.43,3804.35,3576.09,4032.61,₹/Quintal
+Rice,14 Days,SARIMA-LSTM,3801.43,3807.26,3578.82,4035.7,₹/Quintal
+Rice,30 Days,SARIMA-LSTM,3801.43,3813.93,3585.09,4042.77,₹/Quintal
+Rice,60 Days,SARIMA-LSTM,3801.43,3826.43,3596.84,4056.02,₹/Quintal
+Rice,90 Days,SARIMA-LSTM,3801.43,3838.92,3608.58,4069.26,₹/Quintal
+Rice,180 Days,SARIMA-LSTM,3801.43,3876.42,3643.83,4109.01,₹/Quintal
+Rice (Karnataka),7 Days,SARIMA-LSTM,3547.5,3550.22,3337.21,3763.23,₹/Quintal
+Rice (Karnataka),14 Days,SARIMA-LSTM,3547.5,3552.94,3339.76,3766.12,₹/Quintal
+Rice (Karnataka),30 Days,SARIMA-LSTM,3547.5,3559.16,3345.61,3772.71,₹/Quintal
+Rice (Karnataka),60 Days,SARIMA-LSTM,3547.5,3570.83,3356.58,3785.08,₹/Quintal
+Rice (Karnataka),90 Days,SARIMA-LSTM,3547.5,3582.49,3367.54,3797.44,₹/Quintal
+Rice (Karnataka),180 Days,SARIMA-LSTM,3547.5,3617.48,3400.43,3834.53,₹/Quintal
+Rice (Maharashtra),7 Days,XGBoost,3991.88,3994.94,3755.24,4234.64,₹/Quintal
+Rice (Maharashtra),14 Days,XGBoost,3991.88,3998.0,3758.12,4237.88,₹/Quintal
+Rice (Maharashtra),30 Days,XGBoost,3991.88,4005.0,3764.7,4245.3,₹/Quintal
+Rice (Maharashtra),60 Days,XGBoost,3991.88,4018.13,3777.04,4259.22,₹/Quintal
+Rice (Maharashtra),90 Days,XGBoost,3991.88,4031.25,3789.38,4273.12,₹/Quintal
+Rice (Maharashtra),180 Days,XGBoost,3991.88,4070.62,3826.38,4314.86,₹/Quintal
+Tomato,7 Days,ARIMA,1355.0,1356.04,1274.68,1437.4,₹/Quintal
+Tomato,14 Days,ARIMA,1355.0,1357.08,1275.66,1438.5,₹/Quintal
+Tomato,30 Days,ARIMA,1355.0,1359.45,1277.88,1441.02,₹/Quintal
+Tomato,60 Days,ARIMA,1355.0,1363.91,1282.08,1445.74,₹/Quintal
+Tomato,90 Days,ARIMA,1355.0,1368.36,1286.26,1450.46,₹/Quintal
+Tomato,180 Days,ARIMA,1355.0,1381.73,1298.83,1464.63,₹/Quintal
+Tomato (Karnataka),7 Days,ARIMA,1368.75,1369.8,1287.61,1451.99,₹/Quintal
+Tomato (Karnataka),14 Days,ARIMA,1368.75,1370.85,1288.6,1453.1,₹/Quintal
+Tomato (Karnataka),30 Days,ARIMA,1368.75,1373.25,1290.86,1455.64,₹/Quintal
+Tomato (Karnataka),60 Days,ARIMA,1368.75,1377.75,1295.09,1460.41,₹/Quintal
+Tomato (Karnataka),90 Days,ARIMA,1368.75,1382.25,1299.31,1465.19,₹/Quintal
+Tomato (Karnataka),180 Days,ARIMA,1368.75,1395.75,1312.0,1479.5,₹/Quintal
+Tomato (Maharashtra),7 Days,ARIMA,1300.0,1301.0,1222.94,1379.06,₹/Quintal
+Tomato (Maharashtra),14 Days,ARIMA,1300.0,1301.99,1223.87,1380.11,₹/Quintal
+Tomato (Maharashtra),30 Days,ARIMA,1300.0,1304.27,1226.01,1382.53,₹/Quintal
+Tomato (Maharashtra),60 Days,ARIMA,1300.0,1308.55,1230.04,1387.06,₹/Quintal
+Tomato (Maharashtra),90 Days,ARIMA,1300.0,1312.82,1234.05,1391.59,₹/Quintal
+Tomato (Maharashtra),180 Days,ARIMA,1300.0,1325.64,1246.1,1405.18,₹/Quintal
+Wheat,7 Days,SARIMA-LSTM,2740.72,2742.82,2578.25,2907.39,₹/Quintal
+Wheat,14 Days,SARIMA-LSTM,2740.72,2744.92,2580.22,2909.62,₹/Quintal
+Wheat,30 Days,SARIMA-LSTM,2740.72,2749.73,2584.75,2914.71,₹/Quintal
+Wheat,60 Days,SARIMA-LSTM,2740.72,2758.74,2593.22,2924.26,₹/Quintal
+Wheat,90 Days,SARIMA-LSTM,2740.72,2767.75,2601.68,2933.82,₹/Quintal
+Wheat,180 Days,SARIMA-LSTM,2740.72,2794.78,2627.09,2962.47,₹/Quintal
+Wheat (Karnataka),7 Days,XGBoost,3583.33,3586.08,3370.92,3801.24,₹/Quintal
+Wheat (Karnataka),14 Days,XGBoost,3583.33,3588.83,3373.5,3804.16,₹/Quintal
+Wheat (Karnataka),30 Days,XGBoost,3583.33,3595.11,3379.4,3810.82,₹/Quintal
+Wheat (Karnataka),60 Days,XGBoost,3583.33,3606.89,3390.48,3823.3,₹/Quintal
+Wheat (Karnataka),90 Days,XGBoost,3583.33,3618.67,3401.55,3835.79,₹/Quintal
+Wheat (Karnataka),180 Days,XGBoost,3583.33,3654.01,3434.77,3873.25,₹/Quintal
+Wheat (Maharashtra),7 Days,SARIMA-LSTM,2677.53,2679.58,2518.81,2840.35,₹/Quintal
+Wheat (Maharashtra),14 Days,SARIMA-LSTM,2677.53,2681.64,2520.74,2842.54,₹/Quintal
+Wheat (Maharashtra),30 Days,SARIMA-LSTM,2677.53,2686.33,2525.15,2847.51,₹/Quintal
+Wheat (Maharashtra),60 Days,SARIMA-LSTM,2677.53,2695.14,2533.43,2856.85,₹/Quintal
+Wheat (Maharashtra),90 Days,SARIMA-LSTM,2677.53,2703.94,2541.7,2866.18,₹/Quintal
+Wheat (Maharashtra),180 Days,SARIMA-LSTM,2677.53,2730.35,2566.53,2894.17,₹/Quintal
