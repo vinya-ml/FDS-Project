@@ -32,7 +32,7 @@ from dashboard.reports import render_reports_page
 
 # Configure Page
 st.set_page_config(
-    page_title="Agrimetaverse Intelligence | Agricultural Forecasting",
+    page_title="Agricultural Commodity Price Forecasting & Weather Volatility Dynamics",
     page_icon="🌾",
     layout="wide",
     initial_sidebar_state="expanded",
